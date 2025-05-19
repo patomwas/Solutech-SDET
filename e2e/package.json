@@ -1,0 +1,12 @@
+{
+  "name": "bdd-tour-ticket-tests",
+  "version": "1.0.0",
+  "description": "BDD tests using Cucumber.js (no Playwright)",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^9.0.0",
+    "chai": "^4.3.6"
+  }
+}
